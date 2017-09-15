@@ -1,0 +1,22 @@
+allow-logins: true
+cloudflare:
+  enabled: true
+  key: ""
+  email: ""
+  delete: 1
+  ip: ""
+  name: ""
+  odd: 0
+  time: 0
+debug: false
+name: ""
+mainframe:
+  url: ""
+  key: ""
+  time_out: 2000
+database:
+  host: ""
+  port: 3306
+  user: ""
+  pass: ""
+  dbName: ""
