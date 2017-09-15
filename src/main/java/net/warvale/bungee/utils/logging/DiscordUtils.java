@@ -10,7 +10,7 @@ import java.util.Arrays;
 
 public class DiscordUtils {
 
-    private static String statusHookURl = "";
+    private static String statusHookURl = "https://canary.discordapp.com/api/webhooks/358353279345885194/wnnRRTb3OUyXRl3YAbviifNo_AKQl_cB5RYaOZyIvF6u_vFGLGVllVJ1s-jqwDRicdlU";
 
     public static final int GENERAL_MSG = 3447003;
     public static final int SUCCESS_MSG = 0x23c540;
